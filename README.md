@@ -52,6 +52,9 @@ c) modifying annotation.
 
 This corpus construction is similar to our OpenDeID in setting 2 to the phase 1 and 2 in the PGx corpus. Here in PGx phase 1 and 3, Annotator 1 and 2 are annotation in parellel, which is similar to our setting 2. In pahse 2, senior annotator reviews the annotations from phase 1. Which is similarly done in all of our three settings.
 
+
+
+
 Chia - annotated corpus for clinical eligibility criteria.
 
 The components of CAM (chia’s annotation model) are entities, relationships, annotation graphs. 
